@@ -1,0 +1,420 @@
+--------------------
+pages.dev ✔
+store.epicgames.com ✔
+www.epicgames.com ✔
+visa.cn ✘
+www.fortnite.com ✔
+visa.com.tw ✘
+africa.visa.com ✔
+visa.com.sg ✘
+visaeurope.at ✘
+visa.com.mt ✘
+qa.visamiddleeast.com ✔
+time.is ✔
+wto.org ✘
+icook.hk ✔
+icook.tw ✔
+visamiddleeast.com ✘
+visa.com.hk ✘
+visa.co.id ✘
+visa.co.ke ✘
+visa.co.in ✘
+visa.ca ✘
+visa.com.ai ✘
+caribbean.visa.com ✘
+portal.cloudflarepartners.com ✔
+support.cloudflarewarp.com ✔
+developers.cloudflare.com ✔
+ai.cloudflare.com ✔
+try.cloudflare.com ✔
+blog.cloudflare.com ✘
+community.cloudflare.com ✔
+abuse.cloudflare.com ✔
+sso.cloudflare.dev ✔
+ns5.cloudflare.com ✔
+ns6.cloudflare.com ✘
+ns7.cloudflare.com ✔
+ns3.cloudflare.com ✘
+ns4.cloudflare.com ✔
+workers.cloudflare.com ✔
+radar.cloudflare.com ✘
+support.cloudflare.com ✔
+challenge.developers.cloudflare.com ✔
+pages.cloudflare.com ✘
+ns.cloudflare.com ✘
+arena.lmsys.org ✔
+lmarena.ai ✘
+platform.dash.cloudflare.com ✘
+info.cloudflare.com ✔
+sparrow.cloudflare.com ✘
+videodelivery.net ✔
+www.csgo.com ✔
+digitalocean.com ✔
+www.dynadot.com ✔
+singapore.com ✔
+ping.pe ✘
+ip.skk.moe ✔
+store.ubisoft.com ✘
+www.nexusmods.com ✔
+users.nexusmods.com ✔
+wall.alphacoders.com ✔
+www.alphacoders.com ✔
+www.hcaptcha.com ✔
+www.wemod.com ✔
+faceit-client.faceit-cdn.net ✔
+anticheat-client.faceit-cdn.net ✔
+download-alt.easyanticheat.net ✔
+www.namesilo.com ✔
+www.fontawesome.com ✔
+ajax.cdnjs.com ✔
+uptimerobot.com ✔
+opencollective.com ✔
+www.hostpapa.in ✔
+www.hyva.com ✘
+cfapi.920329.xyz ✔
+cfyx.920329.xyz ✔
+www.hostinger.com ✔
+www.namecheap.com ✘
+www.namesilo.com ✔
+www.netim.com ✔
+www.spaceship.com ✔
+www.domain.com ✔
+www.epik.com ✔
+malaysia.com ✔
+ae.visamiddleeast.com ✔
+www.geolocation.com ✔
+www.4chan.org ✔
+customer.l53.net ✔
+www.coleman.com ✔
+ips.993888.xyz ✔
+graylog.org ✔
+david.ns.cloudflare.com ✔
+june.ns.cloudflare.com ✔
+www.ipxo.com ✔
+cdnjs.com ✔
+www.racknerd.com ✔
+pkg.cloudflare.com ✔
+discord.cloudflare.com ✔
+crypto.cloudflare.com ✔
+migp.cloudflare.com ✔
+api.radar.cloudflare.com ✔
+r2-calculator.cloudflare.com ✔
+performance.radar.cloudflare.com ✔
+rpki.cloudflare.com ✔
+dash.teams.cloudflare.com ✔
+one.dash.cloudflare.com ✔
+static.cloudflareinsights.com ✔
+geolocation.onetrust.com ✔
+gates.cloudflare.com ✔
+platform.dash.cloudflare.com ✔
+research.cloudflare.com ✔
+partners.cloudflare.com ✘
+peering.cloudflare.com ✔
+malcolm.cloudflare.com ✘
+deploy.workers.cloudflare.com ✘
+opaque.research.cloudflare.com ✔
+teams.cloudflare.com ✔
+ct.cloudflare.com ✔
+cn.cloudflare.com ✘
+classic.radar.cloudflare.com ✔
+drand.cloudflare.com ✘
+privacypass.cloudflare.com ✔
+opaque-full.research.cloudflare.com ✔
+content.cloudflare.com ✘
+icons.getbootstrap.com ✔
+blog.getbootstrap.com ✘
+cloudflare.tv ✔
+cloudflaretv.cloudflareaccess.com ✘
+staging.cloudflare.tv ✘
+cloudflare.tv.cdn.cloudflare.net ✔
+www.cloudflare.tv.cdn.cloudflare.net ✘
+staging.cloudflare.tv.cdn.cloudflare.net ✔
+live.cloudflare.tv.cdn.cloudflare.net ✘
+www.cloudflare.tv ✔
+radar-cfdata-org.cloudflareaccess.com ✘
+isbgpsafeyet.com ✘
+anycast.com ✘
+cffast.wawacm.com ✔
+cfcnc.cdnddd.com ✘
+dos-op.io ✘
+www.it7.net ✔
+www.noi.org ✔
+89d.com ✔
+www.89d.com ✔
+download.redis.io ✔
+www.vitagreen.com ✘
+www.h5.com ✔
+www.pacopacomama.com ✔
+packages.adoptium.net ✔
+haven1.tokensoft.io ✔
+time.cloudflare.com ✘
+shopify.com ✔
+ip.sb ✔
+japan.com ✔
+russia.com ✔
+skk.moe ✔
+www.visa.com ✔
+www.visa.com.sg ✔
+www.visa.com.hk ✔
+www.visa.com.tw ✘
+www.visa.co.jp ✘
+www.visakorea.com ✔
+www.gco.gov.qa ✔
+www.gov.se ✘
+www.gov.ua ✘
+www.digitalocean.com ✘
+www.shopify.com ✔
+www.whoer.net ✔
+www.whatismyip.com ✘
+www.ipget.net ✔
+www.hugedomains.com ✘
+www.udacity.com ✘
+www.okcupid.com ✘
+www.glassdoor.com ✔
+www.udemy.com ✔
+www.baipiao.eu.org ✘
+cdn.anycast.eu.org ✘
+cdn-all.xn--b6gac.eu.org ✘
+cdn-b100.xn--b6gac.eu.org ✘
+xn--b6gac.eu.org ✔
+edgetunnel.anycast.eu.org ✘
+alejandracaiccedo.com ✘
+nc.gocada.co ✘
+log.bpminecraft.com ✘
+www.boba88slot.com ✘
+gur.gov.ua ✔
+www.zsu.gov.ua ✔
+www.iakeys.com ✔
+edtunnel-dgp.pages.dev ✔
+www.d-555.com ✘
+fbi.gov ✔
+netlify-cname.xingpingcn.top ✘
+vercel.001315.xyz ✘
+vercel-cname.xingpingcn.top ✘
+cnamefuckxxs.yuchen.icu ✔
+cdn.2020111.xyz ✘
+cf-cname.xingpingcn.top ✔
+cfcdn.v6.rocks ✘
+aliyun.2096.us.kg ✘
+cf.090227.xyz ✔
+cloudflare.182682.xyz ✔
+cloudfront.182682.xyz ✘
+gcore.182682.xyz ✘
+fastly.182682.xyz ✘
+cachefly.182682.xyz ✘
+lightcdn.182682.xyz ✘
+vercel.182682.xyz ✘
+netlify.182682.xyz ✘
+hostinger.com ✔
+cfip.xxxxxxxx.tk#OTC提供维护官方优选 ✔
+bestcf.onecf.eu.org#Mingyu提供维护官方优选 ✔
+cf.zhetengsha.eu.org#小一提供维护官方优选 ✔
+yx.887141.xyz ✔
+cfip.1323123.xyz ✘
+cf.0sm.com ✔
+bestproxy.onecf.eu.org#Mingyu提供维护反代优选 ✘
+proxy.xxxxxxxx.tk#OTC提供维护反代优选 ✘
+ct.090227.xyz#电信官方优选 ✔
+cmcc.090227.xyz#移动官方优选 ✔
+162.159.130.123 
+104.19.152.139 
+198.41.212.3 
+104.16.47.29 
+104.17.229.251 
+104.16.42.62 
+162.159.140.74 
+162.159.138.158 
+162.159.136.186 
+162.159.128.190
+172.67.57.85#CM-Default
+141.101.113.210#CM-Default
+172.67.27.91#CM-Default
+172.67.141.112#CM-Default
+172.64.81.25#CM-Default
+172.67.238.230#CU-FRA
+172.67.76.99#CU-NRT
+172.64.69.228#CU-NRT
+172.67.13.21#CU-NRT
+198.41.208.81#CU-NRT
+172.67.223.126#CT-AMS
+172.67.155.200#CT-AMS
+104.19.65.32#CT-SJC
+104.18.2.158#CT-SJC
+104.19.42.136#CT-SJC
+104.18.27.173#CF-326.64MB/s 
+162.159.241.56#CF-305.56MB/s 
+104.19.65.231#CF-292.4MB/s 
+104.19.130.81#CF-32.32MB/s 
+162.159.253.152#CF-28.35MB/s 
+104.16.120.190#CF-27.91MB/s 
+104.21.231.143#CF-18.64MB/s 
+104.19.254.159#CF-15.38MB/s 
+104.19.130.233#CF-14.28MB/s 
+162.159.246.108#CF-6.1MB/s
+129.151.225.228#FR 
+8.220.135.63#PH 
+8.220.135.231#PH 
+147.139.181.165#ID
+
+127.0.0.1:1234#cfnat 
+198.62.62.156:443#US 
+162.159.129.11:2053#US 
+162.159.129.67:8443#US 
+104.16.134.27:2083#US 
+104.25.254.4:2087#US 
+104.17.128.1:2096#US 
+ashton.ns.cloudflare.com ✔
+abdullah.ns.cloudflare.com ✔
+bowen.ns.cloudflare.com ✔
+benedict.ns.cloudflare.com ✔
+braden.nscloudflare.com ✘
+[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]#IPV6 
+[2606:4700:9b08:7ce1:8882:ba8c:2880:c619]#IPV6 
+[2606:4700:9b08:dd59:154f:abf8:46b5:25bb]#IPV6 
+cris.ns.cloudflare.com ✔
+craig.ns.cloudflare.com ✔
+decker.ns.cloudflare.com ✔
+damien.ns.cloudflare.com ✔
+dylan.ns.cloudflare.com ✔
+103.160.204.59:443#HK 
+198.62.62.4:443#HK 
+75.2.32.4:443#HK 
+104.17.142.12:443#HK 
+104.17.68.85:443#HK 
+104.17.71.31:443#HK  
+icook.com ✘ 
+172.67.181.209 
+172.67.49.134 
+172.67.120.0 
+172.67.243.218 
+172.67.79.211 
+162.159.36.104      
+103.160.204.59 
+198.62.62.4 
+75.2.32.4 
+104.17.142.12 
+104.17.68.85 
+huxley.ns.cloudflare.com ✔
+julio.ns.cloudflare.com ✔
+kyree.ns.cloudflare.com ✔
+lewis.ns.cloudflare.com ✘
+moura.ns.cloudflare.com ✔
+nikon.ns.cloudflare.com ✔
+otto.ns.cloudflare.com ✔
+pranab.ns.cloudflare.com ✔
+rustam.ns.cloudflare.com ✔
+sullivan.ns.cloudflare.com ✔
+trevor.ns.cloudflare.com ✔
+uriah.ns.cloudflare.com ✔
+wilson.ns.cloudflare.com ✔
+162.159.133.85 
+172.67.106.26 
+172.67.110.232 
+172.67.95.24 
+172.64.201.25      
+www.sean-now.com ✘
+whatismyipaddress.com ✔
+www.pcmag.com ✔
+www.ipchicken.com ✔
+iplocation.io ✔
+www.who.int ✘
+www.wto.org ✔
+stock.hostmonit.com ✔
+www.tushencn.com ✘
+www.7749tv.com ✔
+manmankan.cc ✘
+www.ddwhm.com ✔
+ipinfo.in ✔
+gamer.com.tw ✘
+steamdb.info ✔
+toy-people.com ✔
+silkbook.com ✘
+ipv4.ip.sb ✔
+ip.gs ✔
+dnschecker.org ✔
+tasteatlas.com ✔
+pixiv.net ✘
+comicabc.com ✔
+c.xf.free.hr ✘
+yecaoyun.com ✘
+zula.ir ✘
+
+polmf1.pages.dev ✔
+polma1.pages.dev ✔
+polmd1.pages.dev ✔
+polme1.pages.dev ✔
+polmc1.pages.dev ✔
+polmb1.pages.dev ✔
+polmd2.pages.dev ✔
+polmb2.pages.dev ✔
+polmd3.pages.dev ✔
+polma3.pages.dev ✔
+polme3.pages.dev ✔
+polmb3.pages.dev ✔
+polma4.pages.dev ✔
+polmd4.pages.dev ✔
+polmf4.pages.dev ✔
+polmb4.pages.dev ✔
+polmc4.pages.dev ✔
+polma5.pages.dev ✔
+polmc6.pages.dev ✔
+polma6.pages.dev ✔
+polmd6.pages.dev ✔
+polmb6.pages.dev ✔
+polmc7.pages.dev ✔
+polmb7.pages.dev ✔
+polmc8.pages.dev ✔
+polmd8.pages.dev ✔
+polme8.pages.dev ✔
+polma8.pages.dev ✔
+polmf8.pages.dev ✔
+polma9.pages.dev ✔
+polmb9.pages.dev ✔
+polme9.pages.dev ✔
+polmf10.pages.dev ✔
+polmd10.pages.dev ✔
+
+
+
+
+
+
+
+--------------------
+较早前域名
+--------------------
+CF优选域名
+发表于2025/3/1 15:35
+助力快速连接 cloudflare
+
+在线优选 IP
+1:https://mrxn.net/Vercel.html
+2:https://stock.hostmonit.com/CloudFlareYes
+文章标题：CF优选域名
+文章链接：https://mrxn.net/BESTCFDOMAIN.html
+
+
+--------------------
+微测网-全球云服务监测平台
+支持CloudFlare优选、CloudFront优选等服务
+
+主页链接:https://www.wetest.vip/
+
+
+--------------------
+CloudFlare中国大陆地区优选方案汇总
+
+主页链接:https://www.gaofumei.net/web/12556.html
+
+
+--------------------
+
+
+
+
+
+
+
+
+
+
